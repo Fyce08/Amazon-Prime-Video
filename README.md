@@ -1,5 +1,5 @@
 # Amazon Prime Video   
-This project provides a comprehensive examination of the Amazon Prime Movies and TV Shows collection. The goal is to glean insights into content distribution across various factors, including genres, ratings, directors, and release dates. It further explores trends in content production over time and across diverse regions.    
+This project provides a comprehensive examination of the Amazon Prime Movies and TV Shows collection. The goal is to glean insights into content distribution across various factors, including genres, ratings, directors, and release dates. It further explores trends in content production over time and across diverse regions. Kindly view the visualisation [HERE](  
 
 # Key Insights
 
@@ -11,7 +11,7 @@ This project provides a comprehensive examination of the Amazon Prime Movies and
 
 **Content Distribution by Country:** Depicts the geographical origins of the shows and movies on Prime Video, revealing the platform's global reach and content diversity.
 
-**Movies vs. TV Shows:** Utilizes a pie chart to depict the proportional split between movies and TV shows on Prime Video, offering a quick comparison of content types.
+**Movies vs. TV Shows:** Utilises a pie chart to depict the proportional split between movies and TV shows on Prime Video, offering a quick comparison of content types.
 
 **Content Release Trends:** Employs a line graph to visualize the number of shows and movies released over time, potentially revealing trends in content production volume.
 
