@@ -1,6 +1,6 @@
 # Amazon Prime Video   
-This project provides a comprehensive examination of the Amazon Prime Movies and TV Shows collection. The goal is to glean insights into content distribution across various factors, including genres, ratings, directors, and release dates. It further explores trends in content production over time and across diverse regions. Kindly view the visualisation [HERE](https://app.powerbi.com/groups/me/reports/4531c1d1-5bfb-41db-aaa3-77221855424d/ReportSection?experience=power-bi)
-
+This project provides a comprehensive examination of the Amazon Prime Movies and TV Shows collection. The goal is to glean insights into content distribution across various factors, including genres, ratings, directors, and release dates. It further explores trends in content production over time and across diverse regions. Kindly view the visualisation [HERE](
+https://app.powerbi.com/groups/me/reports/4531c1d1-5bfb-41db-aaa3-77221855424d/ReportSection?experience=power-bi)
 # Key Insights
 
 **Titles, Ratings, Genres, and Directors:** Offers a foundational understanding of the dataset's scope by showcasing the distribution of titles, ratings, genres, and directors within the Prime Video library.
